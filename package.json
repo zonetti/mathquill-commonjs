@@ -1,12 +1,12 @@
 {
-  "name": "mathquill",
+  "name": "mathquill-commonjs",
   "description": "Easily type math in your webapp",
   "version": "0.10.1",
   "license": "MPL-2.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luxp/mathquill-webpack.git"
+    "url": "https://github.com/zonetti/mathquill-commonjs.git"
   },
   "dependencies": {
     "jquery": "latest"
