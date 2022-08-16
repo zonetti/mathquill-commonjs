@@ -1,4 +1,2 @@
 require('jquery')(window);
-require('./mathquill.min.js');
-
-module.exports = window.MathQuill;
+module.exports = require('./mathquill.js')(window.jQuery);
