@@ -1,2 +1,2 @@
-require('jquery')(window);
-module.exports = require('./mathquill.js')(window.jQuery);
+const jq = require('jquery');
+module.exports = require('./mathquill.js')(jq);
